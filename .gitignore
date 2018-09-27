@@ -2,3 +2,4 @@ MNIST_data/*
 PicData/*
 RNN_logs/*
 logs/*
+Saved_Neural_network/*
